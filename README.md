@@ -1,1 +1,1 @@
-# GildedRose
+# GildedRose Refactoring [![BCH compliance](https://bettercodehub.com/edge/badge/zach-luman/GildedRose?branch=master)](https://bettercodehub.com/)
